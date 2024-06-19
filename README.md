@@ -13,7 +13,7 @@ While working at the Multikarta company, he was involved in support and developm
 - integration with GEO Api to build an optimal route on the map
 - integration with the TranzWare Online banking transaction system
 - setting up SSL and security on the server
-- work with fiv and fiv to send push notifications to the mobile application
+- work with Firebase and APNS to send push notifications to the mobile application
 - generation of reports in the following formats: XLSX, DOCX, PDF (from HTML template)
 
 Link to application: https://apps.rustore.ru/app/mk.mcc.android
